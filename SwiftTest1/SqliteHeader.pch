@@ -1,0 +1,16 @@
+//
+//  SqliteHeader.pch
+//  SwiftTest1
+//
+//  Created by cao jie on 1/20/16.
+//  Copyright (c) 2016 cao jie. All rights reserved.
+//
+
+#ifndef SwiftTest1_SqliteHeader_pch
+#define SwiftTest1_SqliteHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "sqlite3.h"
+
+#endif
